@@ -1,1 +1,7 @@
 .DS_Store
+
+# Data files are never committed; see the README for the download.
+Data/*.dat
+Data/*.csv
+*.nc
+.ipynb_checkpoints/
